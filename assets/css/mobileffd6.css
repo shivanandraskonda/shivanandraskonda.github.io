@@ -1,0 +1,165 @@
+@media screen and (max-width: 767px)
+{.home-left{padding-right:0}
+#fixtures_div{margin-left:-75%;margin-right:-75%}
+#fixtures_div .owl-nav{position:absolute;top:-45px;right:270px}
+#fixtures_div .owl-nav .owl-prev{width:36px;height:36px}
+#fixtures_div .owl-nav .owl-next{width:36px;height:36px}
+#main-slider{margin-bottom:0}
+#main-slider .item{height:350px;position:relative}
+#main-slider .item .col-md-7{display:none}
+#main-slider .item .col-md-5{height:350px}
+#main-slider .item .image-cont{height:350px}
+#main-slider .item .image-cont.flip{-webkit-transform:none;transform:none}
+#main-slider .item .slider-fade{display:none}
+#main-slider .item .slide-info{bottom:0;left:0;width:100%;background:rgba(255,255,255,0);background:-moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #F58B34 100%);
+background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(255, 255, 255, 0)), color-stop(100%, #F58B34));background:-webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #F58B34 100%);
+background:-o-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #F58B34 100%);
+background:-ms-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #F58B34 100%);
+background:linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #F58B34 100%);
+filter:progid:DXImageTransform.Microsoft.gradient( startColorstr="#ffffff", endColorstr="#F58B34", GradientType=0 )}
+#main-slider .item .slide-info>div{padding:25px 20px}
+#main-slider .item .slide-info .title a{font-size:18px;line-height:1.33}
+#main-slider .item .slide-info .category-info{text-transform:uppercase;font-size:10px}
+.home-slider .owl-nav{display:none}.home-slider .owl-dots{bottom:0px}
+.home-slider .owl-dots .owl-dot{width:10px;height:10px}
+.home .find-football{border:1px solid #eee;padding:25px;padding-bottom:150px;background-position:bottom right}
+.home .find-football button{margin-left:auto;margin-right:auto}
+.mob-text-center{text-align:center}
+.page-header .menu-cont{overflow-x:scroll}
+.page-header .menu-cont ul li{display:table-cell;vertical-align:middle !important}
+.page-header .menu-cont ul li a{display:block;padding:12px 25px 12px 15px;position:relative;font-size:12px;font-weight:700;color:#888}
+.page-header .menu-cont ul li a:before,.page-header .menu-cont ul li a:after{content:"";position:absolute;border-style:solid;border-width:0 0 50px 16px;top:0}.club-teams ul li{width:50%}
+.club-teams ul li .club-block .image{height:85px}
+.club-teams ul li .club-block .image>div{height:80px}
+.club-teams ul li .club-block .image>div img{height:75px}
+.club-teams ul li .club-block .info h5{font-size:16px}
+.mob-scroll{overflow-x:auto}.mob-scroll>div{display:table}
+.mob-scroll>div>div{display:table-cell}
+.mob-scroll.top>div>div{vertical-align:top}
+.mob-scroll table.mob-right tr td.mob-r,.mob-scroll table.mob-right tr th.mob-r{text-align:right !important}
+.featured-back .item .container{height:300px;overflow:hidden}
+.featured-back .item .container .info{bottom:0;left:-10px;right:-10px;width:110%;padding:20px;background:rgba(255,255,255,0);background:-moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #F58B34 100%);background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(255, 255, 255, 0)), color-stop(100%, #F58B34));background:-webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #F58B34 100%);background:-o-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #F58B34 100%);background:-ms-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #F58B34 100%);background:linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #F58B34 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr="#ffffff", endColorstr="#F58B34", GradientType=0 )}
+
+.featured-back .item .container .info .heading1{font-size:32px}
+.featured-back .item .container .info.find-full{width:100%;left:0;right:0;text-align:center}
+.featured-back .featured-div .logo{vertical-align:top;width:25%;padding-right:10px}.back3 .item .container{height:300px;overflow:hidden}
+.back3 .item .container .info{bottom:0;left:0;right:-10px;width:110%}.back3 .item .container .info .heading1{font-size:32px}.back3 form{text-align:left}
+.featured-news .item .row{margin-left:0;margin-right:0}
+.featured-news .item .image-cont.flip{-webkit-transform:none;transform:none}
+.featured-news .item .slide-info{bottom:0;
+padding:20px;
+background:rgba(255,255,255,0);
+background:-moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #F58B34 100%);
+background:-webkit-gradient(left top, left bottom, color-stop(0%, rgba(255, 255, 255, 0)), color-stop(100%, #F58B34));
+background:-webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #F58B34 100%);
+background:-o-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #F58B34 100%);
+background:-ms-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #F58B34 100%);
+background:linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #F58B34 100%);
+filter:progid:DXImageTransform.Microsoft.gradient( startColorstr="#ffffff", endColorstr="#F58B34", GradientType=0 )}
+.featured-news .item .slide-info>div{padding:0}
+.featured-news .item .slide-info .title a{font-size:24px}
+.featured-news .item.reverse .slide-info{padding-left:20px;padding-right:20px;padding-top:50px;left:0}
+.squad-list .team-member{width:200px !important}.profile.player .image{background-size:300px;height:auto;margin-right:0;min-height:auto;margin-bottom:20px}
+.profile.player .image .player-image{width:240px}
+.profile.player .profile-info{color:#000;font-size:14px}
+.profile.player .profile-info .title{width:100px}
+.profile.player .profile-info .title span{font-size:14px;color:rgba(0,0,0,.8)}
+.profile.club .club-info{padding:20px}.profile.club .club-desc>div{display:block}
+.profile.club .club-desc .image{width:100%;text-align:center}
+.profile.club .club-desc .text{width:100%;padding:20px}
+.profile table.club tr td{font-size:14px}
+.profile .team .image{padding:10px}
+.profile .team .image img{height:60px}
+.profile .team .box{min-width:200px}
+.page .video iframe{width:100%;height:250px}
+.page .page-info h2{font-size:20px;margin-top:20px}
+.page .page-info h3{font-size:18px}
+.page .page-info img.mb-auto{max-width:100% !important;height:auto !important}
+.page img.mb-auto{max-width:100% !important;height:auto !important}
+.page img.mob-ref{height:300px !important}
+.page.general-body .page-info h3{margin-top:0;margin-bottom:10px}.ex-committee .member{margin-bottom:20px}
+.ex-committee .member .image{width:120px;margin:auto}.ex-committee .member .info{padding:15px 0}.ex-committee .member .info h4{font-size:18px;margin-bottom:0}
+.ex-committee .member .info p{font-size:16px}
+.employement.mt{margin-top:0}
+.employement .emp-block .f-right{float:left}
+.contact-us form.contact-form{padding:20px;border:1px solid rgba(0,0,0,.1);box-shadow:0 8px 30px 0 rgba(30,135,240,.2);border-radius:5px}
+.contact-us p.teg{margin-top:16px;color:#9d9d9d}
+.contact-us .contact-info .map{margin-top:20px}
+.contact-us .contact-info .map iframe{width:100%;height:300px}
+.login form{border:1px solid rgba(0,0,0,.1);box-shadow:0 8px 30px 0 rgba(30,135,240,.2);border-radius:5px;padding:20px}
+.find .results{padding-left:0;border-left:none;border-top:1px solid rgba(0,0,0,.1)}
+.find .results .block{padding:15px}
+.find .results .coaches .coach-pro .image{width:60px}
+.find .results .coaches .coach-pro .info{padding-left:10px}
+.find .results .coaches .category{font-size:14px}.career-box{width:300px}.career-box .inside{padding:16px}
+.match .live-match .menu{padding:20px 0}
+.match .live-match .menu ul li{width:100px;margin:5px}
+.match .live-match .menu ul li a{padding:10px 12px;font-size:12px}
+.match .live-match #left_cont_bottom{height:auto !important}
+.match .score{padding:10px 10px}
+.match .score .team-info{width:35%}
+.match .score .team-info .image{height:80px;width:80px;margin:0 auto}
+.match .score .score-info{font-size:40px}
+.match .score .score-info small{display:block;font-size:10px;font-weight:normal}
+.center-execellence .gallery{margin-top:20px}
+.center-execellence .gallery .image{text-align:center}
+.center-execellence .programes ul li{width:48%;text-align:center}
+.about-association .content{padding:20px}
+.about-association .content h3{font-size:20px;margin-bottom:10px}
+.coach-info{margin-bottom:20px}
+.coach-info h3{color:#F58B34;margin-top:10px;font-size:20px}
+.coach-info h4{margin-top:10px;font-size:18px}
+.coach-info ol,.coach-info ul{padding-left:25px}
+.courses-list .category-div .head-div{width:100%}
+.courses-list .course .category-div{text-align:center}
+.courses-list .course .category-div .fee{text-align:center}
+.course-details .course-info .desc{margin-bottom:20px}
+.course-details .course-info .desc span{display:block;font-size:16px;padding-bottom:5px}
+.course-details .overview{padding:15px}
+.course-details .overview .info{font-size:16px}
+
+.products .product .image{padding:5px;min-height:180px}
+.products .product .product-info{padding:5px 0}
+.products .product .product-info .name{font-size:16px;font-weight:700;padding-bottom:5px}
+.products .product .product-info .rate{font-size:16px;font-weight:normal}
+
+.history .details{border-left:10px solid #ebebeb !important}
+.history .details>div{width:100%;display:block;padding:0 10px}
+.history .details>div.left{border-right:none;padding-right:10px}
+.history .details>div.right{padding-left:10px}
+.history .details>div .history-div{margin-bottom:20px;padding-top:60px}
+.history .details>div .history-div .year{width:90px;left:-20px;top:0;padding:0 10px}
+.history .details>div .history-div .year span{font-size:30px}
+.history .details>div .history-div.right{margin-top:0}
+.history .details>div .history-div.right .history-info .image{margin-right:0}
+.history .details>div .history-div.right .year{top:0;left:-20px !important}
+.history .details>div .history-div .history-info{border-radius:10px;padding:15px}
+.history .details>div .history-div .history-info .image{position:absolute;top:0;right:10px !important;width:80px !important;padding:0;margin-top:0 !important;margin-left:0}
+.history .details>div .history-div .history-info .title{font-size:18px}
+.news .big-news .info .heading2{font-size:30px}
+.news .big-news .table-div .half:last-child{padding-left:0}
+.contact-cont{position:relative;bottom:0;text-align:center}
+.contact-cont .contact-btn{background:#f26b21;border:none;border-radius:5px 5px 5px 5px;padding:10px 25px;color:#fff;outline:none}
+.course-calendar h3.mb-16{margin-bottom:0px}
+.course-calendar .paging{text-align:center;margin-bottom:10px}
+.course-calendar .paging .table-div{margin:10px auto 0 auto}
+.world-cup .host .country{padding:30px 0}
+.world-cup .host .country .country-info .name{padding-bottom:0px}
+.world-cup .cities .city-carousel .item{position:relative}
+.world-cup .cities .city-carousel .owl-nav{top:-25px}
+.world-cup .cities .city-carousel .owl-nav .owl-prev{width:36px;height:36px}
+.world-cup .cities .city-carousel .owl-nav .owl-next{width:36px;height:36px}
+.world-cup .tickets{padding:25px 25px}
+.world-cup .tickets>div{display:block}
+.world-cup .tickets .left-info{width:100%;padding-left:0px;z-index:100}
+.world-cup .tickets .left-info p{color:#fff}
+.world-cup .tickets .image{width:100%;margin-top:30px;text-align:center}
+.world-cup .tickets:before,.world-cup .tickets:after{display:none}.trophies .mt-item{min-width:300px}.assoc-hir ul li{margin-right:0;margin-bottom:50px;min-width:200px}
+.assoc-hir ul li:after{transform:rotate(90deg);width:30px;height:40px;background-image:url("../images/next.svg");background-repeat:no-repeat;position:absolute;left:50%;top:125px;background-size:25px;margin-left:-25px}
+.assoc-hir ul li:last-child{margin-right:0}
+.assoc-hir ul li:last-child:after{display:none}
+.strapline{text-align:center;background:#fff}
+.strapline img{max-width:100%;height:auto}
+.grassroots .testimonial{height:auto;margin-bottom:0px;margin-left:10px;margin-right:10px}}
+@media screen and (max-width: 1300px)
+{.profile.nat-team .profile-details{padding-left:60px}}/*# sourceMappingURL=mobile.css.map */

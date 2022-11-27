@@ -1,0 +1,6 @@
+footer .upper-footer{background:#F58B34;padding:60px 0}
+footer .upper-footer .title{text-transform:uppercase;font-size:20px;font-weight:500;padding-bottom:10px;line-height:1.5;color:rgba(255,255,255,.85)}
+footer .upper-footer .footer-menu ul li{color:rgba(255,255,255,.7);font-size:13px;margin-bottom:3px}
+footer .upper-footer .footer-menu ul li a{font-size:14px;display:inline-block;opacity:.74;line-height:1.5;color:rgba(255,255,255,.85);transition:all ease-in-out .2s}
+footer .upper-footer .footer-menu ul li a:hover{color:#fff}footer .bottom-footer{background-color:#F26B21;padding:10px 10px;font-size:14px;text-align:right;color:rgba(255,255,255,.85);opacity:.88}@media screen and (max-width: 768px)
+{footer .upper-footer .title{font-size:16px}footer .bottom-footer{text-align:center !important;font-size:11px;text-align:center}}/*# sourceMappingURL=footer.css.map */
